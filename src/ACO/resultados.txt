@@ -1,0 +1,60 @@
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\scr12.jl
+Parametros del ACO: alpha=0.972520, beta=0.871237, rho=0.720114, Q=0.112161
+Mejor fitness: 31410.000000
+Vecindario: 2-opt
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\scr12.jl
+Parametros del ACO: alpha=0.937779, beta=0.106139, rho=0.659239, Q=0.272292
+Mejor fitness: 31410.000000
+Vecindario: 2-swap
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\scr15.jl
+Parametros del ACO: alpha=0.683480, beta=0.310824, rho=0.644251, Q=0.217093
+Mejor fitness: 51140.000000
+Vecindario: 2-opt
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\scr15.jl
+Parametros del ACO: alpha=0.728647, beta=0.432999, rho=0.259945, Q=0.850830
+Mejor fitness: 51140.000000
+Vecindario: 2-swap
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\scr20.jl
+Parametros del ACO: alpha=0.324039, beta=0.412870, rho=0.648107, Q=0.659175
+Mejor fitness: 110978.000000
+Vecindario: 2-opt
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\scr20.jl
+Parametros del ACO: alpha=0.725673, beta=0.884625, rho=0.721233, Q=0.493994
+Mejor fitness: 111160.000000
+Vecindario: 2-swap
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\had12.jl
+Parametros del ACO: alpha=0.285763, beta=0.544073, rho=0.118153, Q=0.232165
+Mejor fitness: 1652.000000
+Vecindario: 2-opt
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\had12.jl
+Parametros del ACO: alpha=0.992471, beta=0.584747, rho=0.484036, Q=0.729625
+Mejor fitness: 1652.000000
+Vecindario: 2-swap
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\had14.jl
+Parametros del ACO: alpha=0.285763, beta=0.544073, rho=0.118153, Q=0.232165
+Mejor fitness: 2724.000000
+Vecindario: 2-opt
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\had14.jl
+Parametros del ACO: alpha=0.740100, beta=0.732293, rho=0.456939, Q=0.763639
+Mejor fitness: 2724.000000
+Vecindario: 2-swap
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\had20.jl
+Parametros del ACO: alpha=0.285763, beta=0.544073, rho=0.118153, Q=0.232165
+Mejor fitness: 6922.000000
+Vecindario: 2-opt
+Metodo: ACO
+Problema: c:\Users\maxba\Desktop\Proyecto_final_opt2\had20.jl
+Parametros del ACO: alpha=0.798178, beta=0.987855, rho=0.670727, Q=0.789769
+Mejor fitness: 6922.000000
+Vecindario: 2-swap

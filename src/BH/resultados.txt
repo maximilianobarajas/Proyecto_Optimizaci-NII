@@ -1,0 +1,24 @@
+Metodo: BH
+Problema: c:\Users\maxba\Desktop\black_hole\scr12.jl
+Parametros del BH: N=42.345975, R=228.064490
+Mejor fitness: 32236.000000
+Metodo: BH
+Problema: c:\Users\maxba\Desktop\black_hole\scr15.jl
+Parametros del BH: N=36.152475, R=405.052189
+Mejor fitness: 59632.000000
+Metodo: BH
+Problema: c:\Users\maxba\Desktop\black_hole\scr20.jl
+Parametros del BH: N=41.127022, R=502.317647
+Mejor fitness: 142930.000000
+Metodo: BH
+Problema: c:\Users\maxba\Desktop\black_hole\had12.jl
+Parametros del BH: N=34.341676, R=504.785510
+Mejor fitness: 1664.000000
+Metodo: BH
+Problema: c:\Users\maxba\Desktop\black_hole\had14.jl
+Parametros del BH: N=42.998787, R=730.532703
+Mejor fitness: 2766.000000
+Metodo: BH
+Problema: c:\Users\maxba\Desktop\black_hole\had20.jl
+Parametros del BH: N=49.236674, R=788.674160
+Mejor fitness: 7120.000000
